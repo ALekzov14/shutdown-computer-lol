@@ -1,0 +1,10 @@
+C:\Users\Konstantin\Desktop\cpp_project\УгадайЧислоИлиЛох!\УгадайЧислоИлиЛох!\bin\Debug\УгадайЧислоИлиЛох!.exe.config
+C:\Users\Konstantin\Desktop\cpp_project\УгадайЧислоИлиЛох!\УгадайЧислоИлиЛох!\bin\Debug\УгадайЧислоИлиЛох!.exe
+C:\Users\Konstantin\Desktop\cpp_project\УгадайЧислоИлиЛох!\УгадайЧислоИлиЛох!\bin\Debug\УгадайЧислоИлиЛох!.pdb
+C:\Users\Konstantin\Desktop\cpp_project\УгадайЧислоИлиЛох!\УгадайЧислоИлиЛох!\obj\Debug\УгадайЧислоИлиЛох!.csproj.AssemblyReference.cache
+C:\Users\Konstantin\Desktop\cpp_project\УгадайЧислоИлиЛох!\УгадайЧислоИлиЛох!\obj\Debug\УгадайЧислоИлиЛох_.Form1.resources
+C:\Users\Konstantin\Desktop\cpp_project\УгадайЧислоИлиЛох!\УгадайЧислоИлиЛох!\obj\Debug\УгадайЧислоИлиЛох_.Properties.Resources.resources
+C:\Users\Konstantin\Desktop\cpp_project\УгадайЧислоИлиЛох!\УгадайЧислоИлиЛох!\obj\Debug\УгадайЧислоИлиЛох!.csproj.GenerateResource.cache
+C:\Users\Konstantin\Desktop\cpp_project\УгадайЧислоИлиЛох!\УгадайЧислоИлиЛох!\obj\Debug\УгадайЧислоИлиЛох!.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\Desktop\cpp_project\УгадайЧислоИлиЛох!\УгадайЧислоИлиЛох!\obj\Debug\УгадайЧислоИлиЛох!.exe
+C:\Users\Konstantin\Desktop\cpp_project\УгадайЧислоИлиЛох!\УгадайЧислоИлиЛох!\obj\Debug\УгадайЧислоИлиЛох!.pdb
